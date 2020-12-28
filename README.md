@@ -1,5 +1,7 @@
-### Hi there 👋
-
+## Hi there 👋
+### This is my work. You can find me on web with these nicknames: catafest and mythcat.
+### If you like my work and you want to help, then feel free to donate at https://paypal.me/catafest?locale.x=en_US
+### You can send me the problems you want me to solve and the payment made and I will send you the solution.
 <!--
 **catafest/catafest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=catafest&show_icons=true&line_height=33&count_private=true&theme=dark" alt="catafest's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catafest&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+
