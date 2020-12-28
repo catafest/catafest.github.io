@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### This is my work. You can find me on web with these nicknames: catafest and mythcat.
 ### If you like my work and you want to help, then feel free to donate at https://paypal.me/catafest?locale.x=en_US
-### You can send me the problems you want me to solve and the payment made and I will send you the solution.
+### You can send me the problems you want me to solve at catafest@yahoo.com and the payment made and I will send you the solution.
 <!--
 **catafest/catafest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
