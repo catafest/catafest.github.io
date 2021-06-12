@@ -1,6 +1,8 @@
 ## Hi there 👋
 ### This is my work. You can find me on web with these nicknames: catafest and mythcat.
-### If you like my work and you want to help, then feel free to donate at https://paypal.me/catafest?locale.x=en_US
+### If you like my work and you want to help, then feel free to donate at:
+### https://paypal.me/catafest?locale.x=en_US
+<a href='https://ko-fi.com/B0B4OOL6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 ### You can send me the problems you want me to solve at catafest@yahoo.com and the payment made and I will send you the solution.
 <!--
 **catafest/catafest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
