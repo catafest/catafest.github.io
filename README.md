@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ###### A Lot
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Blender 3D](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity 3D](https://img.shields.io/badge/Unity-100000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![LUA](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -43,6 +42,10 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
+##### Software 
+![Krita](https://img.shields.io/badge/Krita-203759.svg?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Blender 3D](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000.svg?style=for-the-badge&logo=Inkscape&logoColor=white)
 
 ###### Some
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
