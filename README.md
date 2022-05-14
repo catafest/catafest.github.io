@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ![Krita](https://img.shields.io/badge/Krita-203759.svg?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Blender 3D](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000.svg?style=for-the-badge&logo=Inkscape&logoColor=white)
+![Libre office](https://img.shields.io/badge/LibreOffice-18A303.svg?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
 ###### Some
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
