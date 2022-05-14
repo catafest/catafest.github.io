@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&color=525252)
+![Google clound](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=323330)
 ![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
