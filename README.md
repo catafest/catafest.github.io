@@ -57,6 +57,9 @@ Here are some ideas to get you started:
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![selenium](https://img.shields.io/badge/selenium-52b73c.svg?style=for-the-badge&logo=selenium&logoColor=white)
+
+###### GitHub stats
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=catafest&show_icons=true&line_height=33&count_private=true&theme=dark" alt="catafest's GitHub Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catafest&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 
