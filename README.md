@@ -1,6 +1,7 @@
 
-## Hi there 👋
-### This is my work. You can find me on web with these nicknames: catafest and mythcat.
+## Hi there 👋 
+### This is my work ... ![Counter](https://komarev.com/ghpvc/?username=catafest&style=flat-square&label=Profile%20Views) 
+### You can find me on web with these nicknames: catafest and mythcat.
 ### If you like my work and you want to help, then feel free to donate at:
 ### https://paypal.me/catafest?locale.x=en_US
 
