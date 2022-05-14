@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=323330)
 ![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Vue](https://img.shields.io/badge/vue-61DAFB.svg?style=for-the-badge&logo=vue&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
@@ -57,6 +56,7 @@ Here are some ideas to get you started:
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![selenium](https://img.shields.io/badge/selenium-52b73c.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-61DAFB.svg?style=for-the-badge&logo=vue&logoColor=black)
 
 ###### GitHub stats
 
