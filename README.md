@@ -4,8 +4,15 @@
 ### You can find me on the web with these nicknames: catafest and mythcat.
 ### If you like my work and you want to help, then feel free to donate at:
 ### https://paypal.me/catafest?locale.x=en_US
-  [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=http://path-to-repo/sample.git)
-#### These are my GitHub profile trophy:
+
+<google-pay-button
+  environment="TEST"
+  button-color="default"
+  button-type="donate"
+  button-locale="en"
+  button-size-mode="fill"
+  style="width: 800px; height: 40px;"
+></google-pay-button>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=catafest)](https://github.com/catafest/github-profile-trophy)
 
