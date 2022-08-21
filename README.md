@@ -8,6 +8,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=catafest)](https://github.com/catafest/github-profile-trophy)
 
 <a href='https://ko-fi.com/B0B4OOL6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+21082022 today I start wakatime 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ### You can send me the problems you want me to solve at catafest@yahoo.com and the payment made and I will send you the solution.
 <!--
 **catafest/catafest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
