@@ -10,6 +10,7 @@
 <a href='https://ko-fi.com/B0B4OOL6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 21082022 today I start wakatime 
+<figure><embed src="https://wakatime.com/share/@catafest/1a42830c-ef12-4b20-b181-587c961625ff.svg"></embed></figure>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
