@@ -1,0 +1,27 @@
+{
+  "data": {
+    "best_day": {
+      "date": "2022-08-21",
+      "text": "1 min",
+      "total_seconds": 99.775516
+    },
+    "grand_total": {
+      "daily_average": 100.0,
+      "daily_average_including_other_language": 100.0,
+      "human_readable_daily_average": "1 min",
+      "human_readable_daily_average_including_other_language": "1 min",
+      "human_readable_total": "1 min",
+      "human_readable_total_including_other_language": "1 min",
+      "total_seconds": 99.775516,
+      "total_seconds_including_other_language": 99.775516
+    },
+    "range": {
+      "days_including_holidays": 1,
+      "days_minus_holidays": 1,
+      "end": "2022-08-21T20:59:59Z",
+      "holidays": 0,
+      "range": "all_time",
+      "start": "2022-08-20T21:00:00Z"
+    }
+  }
+}
