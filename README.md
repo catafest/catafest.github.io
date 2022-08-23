@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
+[![catafest's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catafest)](https://github.com/catafest)
 ### You can send me the problems you want me to solve at catafest@yahoo.com and the payment made and I will send you the solution.
 <!--
 **catafest/catafest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
